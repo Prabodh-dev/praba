@@ -3,7 +3,7 @@ import * as webllm from "@mlc-ai/web-llm";
 
 export const MODELS = [
   {
-    id: "TinyLlama-1.1B-Chat-v1.0-q4f32_1-MLC",
+    id: "TinyLlama-1.1B-Chat-v1.0-q4f16_1-MLC",
     name: "praba-1",
     description: "Base model",
     size: "600MB",
